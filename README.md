@@ -1,4 +1,5 @@
 ---
+description: InoPlace is currently under development.
 cover: .gitbook/assets/Optimise.png
 coverY: 0
 layout:
@@ -8,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -19,9 +20,7 @@ layout:
 
 # 🔜 Coming soon
 
-[**InoPlace**](https://inoplace.org/) is currently under development.
-
-Follow us on [**Telegram**](https://t.me/inoshop\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAA\_TUkmCesVmzmePkeMwu0LYQdGEvLGsFkv1Fm7ANKtuUpzOm9lFXbRerHvlwqObi\_jVNzaJ4PjvjuMGTneXTEtNX9e3meBdZU\_isqRS8BlU8iZ37XI0seub\_\_CG3ivlWWhL6fEcPlmyq0HtC8eIRcoYDhIFAQWIbIj4ISkCzkDMDewxI1lPcz1XcoBAQnrcWscv05MbSYCe) to our newsletter to stay informed about developments, special offers, and community events.
+Follow [**InoPlace**](https://inoplace.org/) on [**Telegram**](https://t.me/inoshop\_org/) or [**subscribe**](https://aecb16de.sibforms.com/serve/MUIFAA\_TUkmCesVmzmePkeMwu0LYQdGEvLGsFkv1Fm7ANKtuUpzOm9lFXbRerHvlwqObi\_jVNzaJ4PjvjuMGTneXTEtNX9e3meBdZU\_isqRS8BlU8iZ37XI0seub\_\_CG3ivlWWhL6fEcPlmyq0HtC8eIRcoYDhIFAQWIbIj4ISkCzkDMDewxI1lPcz1XcoBAQnrcWscv05MbSYCe) to the newsletter to stay informed about developments, community events and special offers.
 
 <div align="left">
 
